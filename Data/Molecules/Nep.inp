@@ -1,0 +1,12 @@
+$molecule
+1 2
+10	0.0	0.0	0.0
+$end
+
+$rem
+   sym_ignore = true
+   no_reorient = true
+   BASIS  =  6-31+G
+   EXCHANGE  =  HF
+    INPUT_BOHR = true 
+ $end

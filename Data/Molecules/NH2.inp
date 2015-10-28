@@ -1,0 +1,15 @@
+$molecule
+0	2
+7	0.0	0.0	0.26775388336671835
+1	0.0	1.5239464832382177	-0.9371348123511849
+1	0.0	-1.5239464832382177	-0.9371348123511849
+$end
+
+$rem
+   sym_ignore = true
+   no_reorient = true
+   BASIS  =  6-31+G
+   EXCHANGE  =  HF
+    scf_convergence = 7
+    INPUT_BOHR = true 
+ $end

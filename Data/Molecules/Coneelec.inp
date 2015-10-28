@@ -1,0 +1,11 @@
+$molecule
+4	1
+6	0.0	0.0	0.0
+$end
+
+$rem
+   BASIS  =  6-31+G
+ SCF_CONVERGENCE = 7
+   EXCHANGE  =  HF
+    INPUT_BOHR = true 
+ $end

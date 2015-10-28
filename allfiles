@@ -1,0 +1,9 @@
+SCF/scf.f90
+ModelRG/Ssmdlctrl.f90
+ModelRG/UsefulSubroutine.f90
+ModelRG/calcSpmodels.f90
+ModelRG/calcSsmodels.f90
+ModelRG/concmodel.f90
+SCF/scf.f90
+ModelRG/Ssmdlctrl.f90
+ModelRG/UsefulSubroutine.f90

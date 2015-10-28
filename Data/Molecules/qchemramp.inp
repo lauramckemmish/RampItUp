@@ -1,0 +1,20 @@
+$molecule
+0	3
+8	0.0	0.0	1.1772515968101593
+8	0.0	0.0	-1.1772515968101593
+$end
+
+$rem
+   symmetry = off 
+  aoints_debug_print = 4 
+   pathn = 10 
+ READ_RAMP_INT = 3 
+ MAX_SCF_CYCLES = 200 
+   sym_ignore = true
+   no_reorient = true
+BASIS = 6-31G 
+EXCHANGE = HF 
+ SCF_ALGORITHM = DIIS_GDM 
+    scf_convergence = 10
+    INPUT_BOHR = true 
+ $end

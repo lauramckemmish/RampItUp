@@ -1,0 +1,10 @@
+$molecule
+3 1
+7	0.0	0.0    0.0
+$end
+
+$rem
+ BASIS  =  6-31+G
+   EXCHANGE  =  HF
+    INPUT_BOHR = true 
+ $end
